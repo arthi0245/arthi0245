@@ -1,32 +1,46 @@
 # Hi, I'm Arthi 👋
 
-### MCA Final Year Student | Data Entry | Non-Voice Process
+### Aspiring Data Entry Executive | Non-Voice Process | MIS Executive
 
-I am an MCA final-year student interested in **Data Entry, Non-Voice Process, Back Office Operations and Remote Work Opportunities**.
+I am an MCA final-year student looking for entry-level opportunities in Data Entry, Non-Voice Process, and MIS Executive roles.
 
-### 💻 Skills
+I am interested in data management, Excel operations, documentation, and maintaining accurate records.
+
+### 💼 Career Interests
+- Data Entry Executive
+- Non-Voice Process Associate
+- MIS Executive
+- Back Office Executive
+- Data Processing Associate
+
+### 🛠️ Skills
 - MS Excel
 - MS Word
-- Google Sheets
-- Data Entry and Data Management
+- Data Entry & Data Management
+- Typing & Documentation
 - Email Communication
-- English Communication
+- Basic SQL
+- Python Basics
+- HTML & CSS
+
+### ⌨️ Work Skills
 - Typing Speed: 35–45 WPM
+- English Communication: Good
+- Attention to Detail
+- Data Accuracy
+- Time Management
+
+### 📂 Portfolio Projects
+- Excel Practice – Data Entry & Spreadsheet Operations
+- Typing Speed – Typing Practice and Performance
+- Sales Performance Dashboard – Data Analysis
+- Certificates – Professional & Academic Certifications
 
 ### 🎓 Education
 Master of Computer Applications (MCA) – Final Year
 
-### 📂 Practice & Portfolio
-- [Excel Practice](https://github.com/arthi0245/Excel-Practice)
-- [Typing Practice](https://github.com/arthi0245/Typing-Speed)
-- [Certificates](https://github.com/arthi0245/Certificates)
-- [Projects](https://github.com/arthi0245)
+### 📫 Contact
+- GitHub: https://github.com/arthi0245
+- Email: professionalhub26@gmail.com 
 
-### 🎯 Career Interests
-- Data Entry Executive
-- Non-Voice Process Executive
-- Back Office Executive
-- Remote Data Operations
-
-### 📫 GitHub
-[github.com/arthi0245](https://github.com/arthi0245)
+**Open to Entry-Level Opportunities | Remote / Work From Home**
